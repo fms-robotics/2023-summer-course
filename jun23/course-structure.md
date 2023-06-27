@@ -34,3 +34,37 @@
     -   Simple "state machine" with Boolean flags
     -   **Example Task**: Multiple blinking LEDs with varying intervals
     -   **Example Task**: Button debounce
+-   Hardware related concept: button bouncing
+
+## Land-based Robot Controlling
+
+-   **Target**: Program the provided robot to complete a simplified version of
+    [BottleSumo](https://www.robofest.net/images/2223/BottleSumo2023v22_Final.pdf)
+-   Students are to be grouped into teams of 2-3
+    -   This is to begin the process of team communication and cooperation
+
+### Hardware required
+
+-   1 "Mecanum Robot" for each team
+
+### 6/7
+
+-   Build the land-based mecanum robot used in the course
+-   Learn how to program a tank-drive
+-   Integrate joystick control
+
+### 11/7
+
+-   Gain an understanding of communication protocols
+    -   I2C
+    -   Serial
+-   Learn to use TFMiniS with I2C (`Wire.h`) and provided library
+-   **Task**: Self-rotate until finding the bottle
+
+### 12/7
+
+-   Continue the tasks on 11/7
+-   Complete the following task:
+    -   A previously unknown "starting task"
+    -   Find the bottle
+    -   Push over the bottle
