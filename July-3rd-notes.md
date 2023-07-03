@@ -1,6 +1,6 @@
 # Basic Concepts
 
-### What is a Arduino
+###
 - PCB
 - Computer
 - Input/Output = Electronic Signal
@@ -27,7 +27,7 @@
 
 ### Current / Voltage, Breadboard
 - LED: Limit Current
-- Current Limiting Resistor
+- 
 - 220 Ohm resistor
 https://support.arduino.cc/hc/en-us/articles/360012963800-Where-is-the-220-Ohm-resistor-
 
@@ -47,3 +47,11 @@ https://arduinotogo.com/2017/03/10/appendix-a-reading-resistor-codes/
 - Pulldown -> Signal to GND
 - 5V Resistor
 - Active Low
+
+
+### Variable & Number System
+- Decimal / Binary
+- MebiByte/ Bit
+- snake_case
+- don't use #define ....
+- constexpr
