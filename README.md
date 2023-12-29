@@ -1,8 +1,4 @@
-# @harukaWinter / K. Tam's Notes
-Not a Blog!
-- [Repo Home](https://github.com/harukaWinter/unorganised-notes)
-- [Github Home](https://github.com/harukaWinter)
-- [Github Pages](https://harukawinter.github.io/unorganised-notes/)
+# Robotics Team 2023 Summer Activities
 
-See https://harukawinter.github.io/unorganised-notes/ or [index](index.md)
+See https://fms-robotics.github.io/2023-summer-course/ or [index](index.md)
 
